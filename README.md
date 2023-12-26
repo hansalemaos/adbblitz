@@ -15,6 +15,8 @@
 
 ### TCP - Taking multiple screenshots 
 
+## Check out the native ADB (!) version - as fast as scrcpy, but no installs:  https://github.com/hansalemaos/adbnativeblitz
+
 If you want to take multiple screenshots using a TCP connection, you can use AdbShotTCP
 
 Import the modules 
